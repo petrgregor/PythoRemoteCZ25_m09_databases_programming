@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, ForeignKey
+from sqlalchemy import Column, Integer, String, ForeignKey, DateTime
 from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
@@ -55,3 +55,27 @@ class Address(Base):
 
     def __str__(self):
         return f"Address: {self.street_name} {self.number}, {self.city}"
+
+
+class Grade(Base):
+    """Exercise 2
+    ● Create a table called grades
+    ● It should include the following fields:
+        ○ id int, primary key, autoincrement
+        ○ student int, foreign key
+        ○ grade int or string - whichever you prefer
+        ○ date_created datetime"""
+    __tablename__ = "grades"
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    student = Column(Integer, ForeignKey(Student.id), nullable=False)
+    grade = Column(Integer, nullable=False)
+    date_created = Column(DateTime, nullable=False)
+
+    def __repr__(self):
+        return (f"Grade(id={self.id}, "
+                f"student={self.student}, "
+                f"grade={self.grade}, "
+                f"date_created={self.date_created})")
+
+    def __str__(self):
+        return f"Student {self.student} has grade {self.grade} ({self.date_created}) #{self.id}"
