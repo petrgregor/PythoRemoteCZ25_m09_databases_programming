@@ -31,3 +31,27 @@ class Locker(Base):
 
     def __str__(self):
         return f"Locker #{self.number} belongs to student: {self.student}"
+
+
+class Address(Base):
+    """Exercise 1
+    ● Create a new table called address
+    ● It should include the following fields:
+        ○ student int, foreign key, primary key
+        ○ street_name string
+        ○ number int
+        ○ city string"""
+    __tablename__ = "address"
+    student = Column(Integer, ForeignKey(Student.id), primary_key=True)
+    street_name = Column(String(50))
+    number = Column(Integer)
+    city = Column(String(50))
+
+    def __repr__(self):
+        return (f"Address(student={self.student}, "
+                f"street_name={self.street_name}, "
+                f"number={self.number}, "
+                f"city={self.city})")
+
+    def __str__(self):
+        return f"Address: {self.street_name} {self.number}, {self.city}"
