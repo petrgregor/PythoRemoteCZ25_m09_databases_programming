@@ -19,7 +19,7 @@ try:
             for director in directors:
                 print(*director)
 
-            taks = """Task 6
+            task = """Task 6
 Write an SQL query that will return all movies from 2002. Make an inquiry."""
             print("=================== MOVIES (year = 2002) ===================")
             sql_statement = """SELECT * FROM movies WHERE year = 2002;"""

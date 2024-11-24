@@ -1,2 +1,3 @@
 /.idea/*
 /p01_mysql/connection_details.py
+/.env

@@ -15,7 +15,7 @@ try:
             london_bikes = csv.reader(f)
             with conn.cursor() as cursor:
                 i = 0
-                next(london_bikes)
+                next(london_bikes)  # skip first line (header)
                 for row in london_bikes:
                     sql_statement = f"""
                         INSERT INTO bikesharing (tstamp, cnt, temperature, temperature_feels, humidity,
