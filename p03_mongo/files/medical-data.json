@@ -1,0 +1,901 @@
+[{
+    "patient_id": 1,
+    "first_name": "Ulla",
+    "last_name": "Burrett",
+    "gender": "Female",
+    "procedure_code": "F01G6ZZ",
+    "procedure_description": "Sensory/Processing Assessment of Integu Low Back/LE",
+    "diagnosis": "Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",
+    "visit_date": {"date":"2019-10-29T10:09:52.000Z"}
+  }, {
+    "patient_id": 2,
+    "first_name": "Amy",
+    "last_name": "Rubery",
+    "gender": "Female",
+    "procedure_code": "0XP700Z",
+    "procedure_description": "Removal of Drainage Device from L Up Extrem, Open Approach",
+    "diagnosis": "Contact with or exposure to meningococcus",
+    "visit_date": {"date":"2019-07-03T07:06:35.000Z"}
+  }, {
+    "patient_id": 3,
+    "first_name": "Peadar",
+    "last_name": "Clem",
+    "gender": "Male",
+    "procedure_code": "0J9800Z",
+    "procedure_description": "Drainage of Abd Subcu/Fascia with Drain Dev, Open Approach",
+    "diagnosis": "Calculus of bile duct with other cholecystitis, with obstruction",
+    "visit_date": {"date":"2019-11-08T22:57:34.000Z"}
+  }, {
+    "patient_id": 4,
+    "first_name": "Milka",
+    "last_name": "Goldsack",
+    "gender": "Female",
+    "procedure_code": "0UCB7ZZ",
+    "procedure_description": "Extirpation of Matter from Endometrium, Via Opening",
+    "diagnosis": "Other vomiting in newborn",
+    "visit_date": {"date":"2018-12-14T03:10:58.000Z"}
+  }, {
+    "patient_id": 5,
+    "first_name": "Angil",
+    "last_name": "Pedden",
+    "gender": "Female",
+    "procedure_code": "0QPN04Z",
+    "procedure_description": "Removal of Int Fix from R Metatarsal, Open Approach",
+    "diagnosis": "Non-working side interference",
+    "visit_date": {"date":"2019-05-21T07:56:13.000Z"}
+  }, {
+    "patient_id": 6,
+    "first_name": "Nelle",
+    "last_name": "Edgeley",
+    "gender": "Female",
+    "procedure_code": "00513ZZ",
+    "procedure_description": "Destruction of Cerebral Meninges, Percutaneous Approach",
+    "diagnosis": "Failed mechanical induction of labor, unspecified as to episode of care or not applicable",
+    "visit_date": {"date":"2019-10-22T21:48:52.000Z"}
+  }, {
+    "patient_id": 7,
+    "first_name": "Israel",
+    "last_name": "Snodin",
+    "gender": "Male",
+    "procedure_code": "0WH333Z",
+    "procedure_description": "Insert of Infusion Dev into Oral Cav & Throat, Perc Approach",
+    "diagnosis": "Unspecified abortion, complicated by delayed or excessive hemorrhage, unspecified",
+    "visit_date": {"date":"2019-01-22T00:35:10.000Z"}
+  }, {
+    "patient_id": 8,
+    "first_name": "Lissie",
+    "last_name": "Fautly",
+    "gender": "Female",
+    "procedure_code": "0VCQ0ZZ",
+    "procedure_description": "Extirpation of Matter from Bi Vas Deferens, Open Approach",
+    "diagnosis": "25-26 completed weeks of gestation",
+    "visit_date": {"date":"2019-06-10T22:55:20.000Z"}
+  }, {
+    "patient_id": 9,
+    "first_name": "Chastity",
+    "last_name": "Flute",
+    "gender": "Female",
+    "procedure_code": "0QP84JZ",
+    "procedure_description": "Removal of Synth Sub from R Femur Shaft, Perc Endo Approach",
+    "diagnosis": "Subdural hemorrhage following injury with open intracranial wound, unspecified state of consciousness",
+    "visit_date": {"date":"2019-09-01T06:28:17.000Z"}
+  }, {
+    "patient_id": 10,
+    "first_name": "Haley",
+    "last_name": "Cejka",
+    "gender": "Female",
+    "procedure_code": "0D1L87P",
+    "procedure_description": "Bypass Transverse Colon to Rectum with Autol Sub, Endo",
+    "diagnosis": "Other specified congenital anomalies of brain",
+    "visit_date": {"date":"2019-07-18T15:21:36.000Z"}
+  }, {
+    "patient_id": 11,
+    "first_name": "Willette",
+    "last_name": "Illiston",
+    "gender": "Female",
+    "procedure_code": "10Q07ZE",
+    "procedure_description": "Repair Nervous System in Products of Conception, Via Opening",
+    "diagnosis": "Hodgkin's disease, unspecified type, lymph nodes of multiple sites",
+    "visit_date": {"date":"2019-07-05T04:47:38.000Z"}
+  }, {
+    "patient_id": 12,
+    "first_name": "Hertha",
+    "last_name": "Shallcroff",
+    "gender": "Female",
+    "procedure_code": "0RRS0KZ",
+    "procedure_description": "Replace of R Metacarpocarp Jt with Nonaut Sub, Open Approach",
+    "diagnosis": "Fumes from combustion of polyvinylchloride [pvc] and similar material in conflagration in private dwelling",
+    "visit_date": {"date":"2019-07-20T03:45:33.000Z"}
+  }, {
+    "patient_id": 13,
+    "first_name": "Dannie",
+    "last_name": "D'eath",
+    "gender": "Male",
+    "procedure_code": "0QW704Z",
+    "procedure_description": "Revision of Int Fix in L Up Femur, Open Approach",
+    "diagnosis": "Injury to inferior mesenteric artery",
+    "visit_date": {"date":"2019-01-28T09:27:34.000Z"}
+  }, {
+    "patient_id": 14,
+    "first_name": "Winni",
+    "last_name": "Stot",
+    "gender": "Female",
+    "procedure_code": "09BP0ZZ",
+    "procedure_description": "Excision of Accessory Sinus, Open Approach",
+    "diagnosis": "Illegitimacy or illegitimate pregnancy",
+    "visit_date": {"date":"2019-09-24T20:11:13.000Z"}
+  }, {
+    "patient_id": 15,
+    "first_name": "Jolee",
+    "last_name": "Rowland",
+    "gender": "Female",
+    "procedure_code": "0WF34ZZ",
+    "procedure_description": "Fragmentation in Oral Cavity and Throat, Perc Endo Approach",
+    "diagnosis": "Illegally induced abortion, complicated by metabolic disorder, unspecified",
+    "visit_date": {"date":"2018-12-16T00:40:50.000Z"}
+  }, {
+    "patient_id": 16,
+    "first_name": "Frankie",
+    "last_name": "McGilbon",
+    "gender": "Male",
+    "procedure_code": "04104JG",
+    "procedure_description": "Bypass Abd Aorta to B Ext Ilia w Synth Sub, Perc Endo",
+    "diagnosis": "Longitudinal deficiency, phalanges, complete or partial",
+    "visit_date": {"date":"2019-11-04T22:46:13.000Z"}
+  }, {
+    "patient_id": 17,
+    "first_name": "Gordie",
+    "last_name": "Merricks",
+    "gender": "Male",
+    "procedure_code": "04790ZZ",
+    "procedure_description": "Dilation of Right Renal Artery, Open Approach",
+    "diagnosis": "Chondrocalcinosis, due to dicalcium phosphate crystals, shoulder region",
+    "visit_date": {"date":"2018-12-07T13:06:43.000Z"}
+  }, {
+    "patient_id": 18,
+    "first_name": "Ag",
+    "last_name": "Friett",
+    "gender": "Female",
+    "procedure_code": "02120A8",
+    "procedure_description": "Bypass 3 Cor Art from R Int Mammary w Autol Art, Open",
+    "diagnosis": "Edema or excessive weight gain in pregnancy, without mention of hypertension, unspecified as to episode of care or not applicable",
+    "visit_date": {"date":"2019-09-14T16:54:02.000Z"}
+  }, {
+    "patient_id": 19,
+    "first_name": "Vachel",
+    "last_name": "Cuppleditch",
+    "gender": "Male",
+    "procedure_code": "05HB3DZ",
+    "procedure_description": "Insertion of Intralum Dev into R Basilic Vein, Perc Approach",
+    "diagnosis": "Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of back [any part]",
+    "visit_date": {"date":"2019-01-24T19:34:52.000Z"}
+  }, {
+    "patient_id": 20,
+    "first_name": "Dalton",
+    "last_name": "Corro",
+    "gender": "Male",
+    "procedure_code": "0SG14J0",
+    "procedure_description": "Fusion 2-4 L Jt w Synth Sub, Ant Appr A Col, Perc Endo",
+    "diagnosis": "Mixed bacterial vaccines, except combinations with a pertussis component, causing adverse effects in therapeutic use",
+    "visit_date": {"date":"2019-09-22T01:23:58.000Z"}
+  }, {
+    "patient_id": 21,
+    "first_name": "Cart",
+    "last_name": "Fawthrop",
+    "gender": "Male",
+    "procedure_code": "0TUDXJZ",
+    "procedure_description": "Supplement Urethra with Synth Sub, Extern Approach",
+    "diagnosis": "Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",
+    "visit_date": {"date":"2019-11-14T07:16:46.000Z"}
+  }, {
+    "patient_id": 22,
+    "first_name": "Abbie",
+    "last_name": "Kull",
+    "gender": "Male",
+    "procedure_code": "BR291ZZ",
+    "procedure_description": "CT Scan of Lumbar Spine using L Osm Contrast",
+    "diagnosis": "Accidental poisoning by other specified analgesics and antipyretics",
+    "visit_date": {"date":"2019-11-12T23:49:05.000Z"}
+  }, {
+    "patient_id": 23,
+    "first_name": "Barret",
+    "last_name": "Fleetham",
+    "gender": "Male",
+    "procedure_code": "0UC40ZZ",
+    "procedure_description": "Extirpate matter from Uterine Support Struct, Open",
+    "diagnosis": "Other specified abnormalities of chorion and amnion affecting fetus or newborn",
+    "visit_date": {"date":"2019-11-12T08:14:52.000Z"}
+  }, {
+    "patient_id": 24,
+    "first_name": "Griffith",
+    "last_name": "Leigh",
+    "gender": "Male",
+    "procedure_code": "0PUL4KZ",
+    "procedure_description": "Supplement Left Ulna with Nonaut Sub, Perc Endo Approach",
+    "diagnosis": "Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck",
+    "visit_date": {"date":"2019-09-15T20:32:11.000Z"}
+  }, {
+    "patient_id": 25,
+    "first_name": "Meade",
+    "last_name": "Whaites",
+    "gender": "Male",
+    "procedure_code": "09B13ZZ",
+    "procedure_description": "Excision of Left External Ear, Percutaneous Approach",
+    "diagnosis": "Symblepharon",
+    "visit_date": {"date":"2018-12-11T23:16:03.000Z"}
+  }, {
+    "patient_id": 26,
+    "first_name": "Baird",
+    "last_name": "Karlolak",
+    "gender": "Male",
+    "procedure_code": "0WQ5XZZ",
+    "procedure_description": "Repair Lower Jaw, External Approach",
+    "diagnosis": "Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified",
+    "visit_date": {"date":"2019-10-14T16:35:03.000Z"}
+  }, {
+    "patient_id": 27,
+    "first_name": "Lawrence",
+    "last_name": "Shinn",
+    "gender": "Male",
+    "procedure_code": "047P466",
+    "procedure_description": "Dilate R Ant Tib Art, Bifurc, w 3 Drug-elut, Perc Endo",
+    "diagnosis": "Closed dislocation, lumbar vertebra",
+    "visit_date": {"date":"2019-06-09T18:15:25.000Z"}
+  }, {
+    "patient_id": 28,
+    "first_name": "Pierce",
+    "last_name": "Higgen",
+    "gender": "Male",
+    "procedure_code": "021X0KP",
+    "procedure_description": "Bypass Thor Aorta Asc to Pulm Trunk w Nonaut Sub, Open",
+    "diagnosis": "Congenital pes planus",
+    "visit_date": {"date":"2019-08-12T18:33:36.000Z"}
+  }, {
+    "patient_id": 29,
+    "first_name": "Darell",
+    "last_name": "Bester",
+    "gender": "Female",
+    "procedure_code": "BY4",
+    "procedure_description": "Imaging, Fetus and Obstetrical, Ultrasonography",
+    "diagnosis": "Hodgkin's disease, mixed cellularity, intrapelvic lymph nodes",
+    "visit_date": {"date":"2019-10-26T14:28:13.000Z"}
+  }, {
+    "patient_id": 30,
+    "first_name": "Nikolas",
+    "last_name": "Ussher",
+    "gender": "Male",
+    "procedure_code": "03PY0KZ",
+    "procedure_description": "Removal of Nonaut Sub from Up Art, Open Approach",
+    "diagnosis": "Longitudinal deficiency, femoral, complete or partial (with or without distal deficiencies, incomplete)",
+    "visit_date": {"date":"2019-01-02T09:24:12.000Z"}
+  }, {
+    "patient_id": 31,
+    "first_name": "Gipsy",
+    "last_name": "Trundle",
+    "gender": "Female",
+    "procedure_code": "05773DZ",
+    "procedure_description": "Dilation of R Axilla Vein with Intralum Dev, Perc Approach",
+    "diagnosis": "Malignant neoplasm of floor of mouth, part unspecified",
+    "visit_date": {"date":"2019-03-13T06:15:24.000Z"}
+  }, {
+    "patient_id": 32,
+    "first_name": "Hartley",
+    "last_name": "Patsall",
+    "gender": "Male",
+    "procedure_code": "08BV3ZX",
+    "procedure_description": "Excision of Right Lacrimal Gland, Perc Approach, Diagn",
+    "diagnosis": "Unspecified adverse effect of anesthesia",
+    "visit_date": {"date":"2019-01-04T01:48:57.000Z"}
+  }, {
+    "patient_id": 33,
+    "first_name": "Hy",
+    "last_name": "Rubinsky",
+    "gender": "Male",
+    "procedure_code": "0CSB3ZZ",
+    "procedure_description": "Reposition Right Parotid Duct, Percutaneous Approach",
+    "diagnosis": "Malignant neoplasm of fundus of stomach",
+    "visit_date": {"date":"2019-03-03T01:29:24.000Z"}
+  }, {
+    "patient_id": 34,
+    "first_name": "Florian",
+    "last_name": "Masden",
+    "gender": "Male",
+    "procedure_code": "0GCQ3ZZ",
+    "procedure_description": "Extirpation of Matter from Mult Parathyroid, Perc Approach",
+    "diagnosis": "Other testicular hypofunction",
+    "visit_date": {"date":"2019-06-21T16:50:40.000Z"}
+  }, {
+    "patient_id": 35,
+    "first_name": "Lisha",
+    "last_name": "Redsell",
+    "gender": "Female",
+    "procedure_code": "0U750ZZ",
+    "procedure_description": "Dilation of Right Fallopian Tube, Open Approach",
+    "diagnosis": "Other nonspecific abnormal results of function study of brain and central nervous system",
+    "visit_date": {"date":"2019-10-12T01:11:04.000Z"}
+  }, {
+    "patient_id": 36,
+    "first_name": "Wilek",
+    "last_name": "Bowick",
+    "gender": "Male",
+    "procedure_code": "0L5M3ZZ",
+    "procedure_description": "Destruction of Left Upper Leg Tendon, Percutaneous Approach",
+    "diagnosis": "Acute myocardial infarction of anterolateral wall, initial episode of care",
+    "visit_date": {"date":"2019-10-09T12:02:15.000Z"}
+  }, {
+    "patient_id": 37,
+    "first_name": "Hyatt",
+    "last_name": "Joannet",
+    "gender": "Male",
+    "procedure_code": "05LG4CZ",
+    "procedure_description": "Occlusion R Hand Vein w Extralum Dev, Perc Endo",
+    "diagnosis": "Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of ankle",
+    "visit_date": {"date":"2019-07-09T05:22:46.000Z"}
+  }, {
+    "patient_id": 38,
+    "first_name": "Clevie",
+    "last_name": "Daburn",
+    "gender": "Male",
+    "procedure_code": "XW04372",
+    "procedure_description": "Introduce Andexanet Alfa in Central Vein, Perc, New Tech 2",
+    "diagnosis": "Crimean hemorrhagic fever [CHF Congo virus]",
+    "visit_date": {"date":"2018-12-05T03:57:13.000Z"}
+  }, {
+    "patient_id": 39,
+    "first_name": "Dominga",
+    "last_name": "Rimer",
+    "gender": "Female",
+    "procedure_code": "0SH00CZ",
+    "procedure_description": "Insertion of Pedcl Stabl Dev into Lum Jt, Open Approach",
+    "diagnosis": "Motor vehicle traffic accident involving collision with other vehicle injuring other specified person",
+    "visit_date": {"date":"2019-11-19T06:29:13.000Z"}
+  }, {
+    "patient_id": 40,
+    "first_name": "Hildegarde",
+    "last_name": "Hamnett",
+    "gender": "Female",
+    "procedure_code": "0JU93JZ",
+    "procedure_description": "Supplement Buttock Subcu/Fascia w Synth Sub, Perc",
+    "diagnosis": "Congenital anemia",
+    "visit_date": {"date":"2019-03-14T07:42:41.000Z"}
+  }, {
+    "patient_id": 41,
+    "first_name": "Brose",
+    "last_name": "Didsbury",
+    "gender": "Male",
+    "procedure_code": "0NSM34Z",
+    "procedure_description": "Reposition Right Zygomatic Bone with Int Fix, Perc Approach",
+    "diagnosis": "Chronic atticoantral suppurative otitis media",
+    "visit_date": {"date":"2019-07-06T04:33:44.000Z"}
+  }, {
+    "patient_id": 42,
+    "first_name": "Karalynn",
+    "last_name": "Hanselmann",
+    "gender": "Female",
+    "procedure_code": "0P9G00Z",
+    "procedure_description": "Drainage of Left Humeral Shaft with Drain Dev, Open Approach",
+    "diagnosis": "Other anomalies of pulmonary artery and pulmonary circulation",
+    "visit_date": {"date":"2019-01-15T01:31:09.000Z"}
+  }, {
+    "patient_id": 43,
+    "first_name": "Caprice",
+    "last_name": "Chivers",
+    "gender": "Female",
+    "procedure_code": "B42HZ2Z",
+    "procedure_description": "CT Scan of Bi Low Extrem Art using Intravasc Optic Cohere",
+    "diagnosis": "Disorders of sacrum",
+    "visit_date": {"date":"2019-11-27T06:17:49.000Z"}
+  }, {
+    "patient_id": 44,
+    "first_name": "Corine",
+    "last_name": "D'Costa",
+    "gender": "Female",
+    "procedure_code": "0RGM4ZZ",
+    "procedure_description": "Fusion of Left Elbow Joint, Percutaneous Endoscopic Approach",
+    "diagnosis": "Failure of sterile precautions during infusion or transfusion",
+    "visit_date": {"date":"2019-02-05T10:23:04.000Z"}
+  }, {
+    "patient_id": 45,
+    "first_name": "Maxy",
+    "last_name": "Chastel",
+    "gender": "Female",
+    "procedure_code": "0D948ZX",
+    "procedure_description": "Drainage of Esophagogastric Junction, Endo, Diagn",
+    "diagnosis": "Obstruction by abnormal pelvic soft tissues during labor, antepartum condition or complication",
+    "visit_date": {"date":"2019-04-24T22:40:06.000Z"}
+  }, {
+    "patient_id": 46,
+    "first_name": "Isidor",
+    "last_name": "Weekly",
+    "gender": "Male",
+    "procedure_code": "0K8H3ZZ",
+    "procedure_description": "Division of Right Thorax Muscle, Percutaneous Approach",
+    "diagnosis": "Knee, leg, ankle, and foot injury",
+    "visit_date": {"date":"2019-05-27T00:57:35.000Z"}
+  }, {
+    "patient_id": 47,
+    "first_name": "Inga",
+    "last_name": "Handscomb",
+    "gender": "Female",
+    "procedure_code": "07BB4ZX",
+    "procedure_description": "Excision of Mesenteric Lymphatic, Perc Endo Approach, Diagn",
+    "diagnosis": "Knee, leg, ankle, and foot injury",
+    "visit_date": {"date":"2019-02-09T22:03:05.000Z"}
+  }, {
+    "patient_id": 48,
+    "first_name": "Byram",
+    "last_name": "Holston",
+    "gender": "Male",
+    "procedure_code": "0TVB3ZZ",
+    "procedure_description": "Restriction of Bladder, Percutaneous Approach",
+    "diagnosis": "Posterior pituitary hormones causing adverse effects in therapeutic use",
+    "visit_date": {"date":"2019-10-16T13:07:53.000Z"}
+  }, {
+    "patient_id": 49,
+    "first_name": "Dale",
+    "last_name": "Cookes",
+    "gender": "Male",
+    "procedure_code": "03CV4Z6",
+    "procedure_description": "Extirpate matter from L Thyroid Art, Bifurc, Perc Endo",
+    "diagnosis": "Fusion of spine (vertebra), congenital",
+    "visit_date": {"date":"2019-02-27T14:03:21.000Z"}
+  }, {
+    "patient_id": 50,
+    "first_name": "Cammy",
+    "last_name": "Gjerde",
+    "gender": "Female",
+    "procedure_code": "0WU04JZ",
+    "procedure_description": "Supplement Head with Synth Sub, Perc Endo Approach",
+    "diagnosis": "Other obstetrical pulmonary embolism, antepartum condition or complication",
+    "visit_date": {"date":"2019-03-16T08:37:18.000Z"}
+  }, {
+    "patient_id": 51,
+    "first_name": "Adina",
+    "last_name": "Bernth",
+    "gender": "Female",
+    "procedure_code": "BH40ZZZ",
+    "procedure_description": "Ultrasonography of Right Breast",
+    "diagnosis": "Other specified inflammatory diseases of prostate",
+    "visit_date": {"date":"2019-03-21T09:01:34.000Z"}
+  }, {
+    "patient_id": 52,
+    "first_name": "Yovonnda",
+    "last_name": "Follows",
+    "gender": "Female",
+    "procedure_code": "021Q4AB",
+    "procedure_description": "Bypass R Pulm Art from Subclav w Autol Art, Perc Endo",
+    "diagnosis": "Other burns of eyelids and periocular area",
+    "visit_date": {"date":"2019-09-25T08:48:19.000Z"}
+  }, {
+    "patient_id": 53,
+    "first_name": "Cathleen",
+    "last_name": "Parmeter",
+    "gender": "Female",
+    "procedure_code": "0T513ZZ",
+    "procedure_description": "Destruction of Left Kidney, Percutaneous Approach",
+    "diagnosis": "Insufficient anterior guidance",
+    "visit_date": {"date":"2019-02-04T23:43:02.000Z"}
+  }, {
+    "patient_id": 54,
+    "first_name": "Mychal",
+    "last_name": "Costello",
+    "gender": "Male",
+    "procedure_code": "BV23ZZZ",
+    "procedure_description": "Computerized Tomography (CT Scan) of Prostate",
+    "diagnosis": "Unspecified pleural effusion",
+    "visit_date": {"date":"2019-07-03T22:10:35.000Z"}
+  }, {
+    "patient_id": 55,
+    "first_name": "Zorah",
+    "last_name": "Fireman",
+    "gender": "Female",
+    "procedure_code": "04L74ZZ",
+    "procedure_description": "Occlusion of Left Colic Artery, Perc Endo Approach",
+    "diagnosis": "Cortical blindness",
+    "visit_date": {"date":"2019-06-13T00:09:40.000Z"}
+  }, {
+    "patient_id": 56,
+    "first_name": "Eben",
+    "last_name": "Martygin",
+    "gender": "Male",
+    "procedure_code": "0TP90DZ",
+    "procedure_description": "Removal of Intraluminal Device from Ureter, Open Approach",
+    "diagnosis": "Late effects of cerebrovascular disease, speech and language deficit, unspecified",
+    "visit_date": {"date":"2019-11-10T08:25:17.000Z"}
+  }, {
+    "patient_id": 57,
+    "first_name": "Felicdad",
+    "last_name": "McCabe",
+    "gender": "Female",
+    "procedure_code": "0YH14YZ",
+    "procedure_description": "Insertion of Other Device into L Buttock, Perc Endo Approach",
+    "diagnosis": "Hirsutism",
+    "visit_date": {"date":"2019-07-23T08:52:10.000Z"}
+  }, {
+    "patient_id": 58,
+    "first_name": "Darby",
+    "last_name": "Tittletross",
+    "gender": "Female",
+    "procedure_code": "0D9M00Z",
+    "procedure_description": "Drainage of Descending Colon with Drain Dev, Open Approach",
+    "diagnosis": "Other specified disorders of the teeth and supporting structures",
+    "visit_date": {"date":"2019-08-18T15:17:21.000Z"}
+  }, {
+    "patient_id": 59,
+    "first_name": "Tris",
+    "last_name": "Rumsey",
+    "gender": "Male",
+    "procedure_code": "B51HYZZ",
+    "procedure_description": "Fluoroscopy of Bi Pelvic Vein using Oth Contrast",
+    "diagnosis": "Anal or rectal pain",
+    "visit_date": {"date":"2019-10-25T18:22:53.000Z"}
+  }, {
+    "patient_id": 60,
+    "first_name": "Issy",
+    "last_name": "Gaskin",
+    "gender": "Female",
+    "procedure_code": "0F1F4ZC",
+    "procedure_description": "Bypass Access Pancr Duct to Lg Int, Perc Endo Approach",
+    "diagnosis": "Encounter for other dialysis",
+    "visit_date": {"date":"2019-11-17T21:29:42.000Z"}
+  }, {
+    "patient_id": 61,
+    "first_name": "Rog",
+    "last_name": "Eassom",
+    "gender": "Male",
+    "procedure_code": "0VCT3ZZ",
+    "procedure_description": "Extirpation of Matter from Prepuce, Percutaneous Approach",
+    "diagnosis": "Palindromic rheumatism, lower leg",
+    "visit_date": {"date":"2019-02-14T12:45:06.000Z"}
+  }, {
+    "patient_id": 62,
+    "first_name": "Lancelot",
+    "last_name": "Govier",
+    "gender": "Male",
+    "procedure_code": "0Q9630Z",
+    "procedure_description": "Drainage of Right Upper Femur with Drain Dev, Perc Approach",
+    "diagnosis": "Opisthorchiasis",
+    "visit_date": {"date":"2019-04-02T21:58:44.000Z"}
+  }, {
+    "patient_id": 63,
+    "first_name": "Avery",
+    "last_name": "Bowie",
+    "gender": "Male",
+    "procedure_code": "0DS",
+    "procedure_description": "Gastrointestinal System, Reposition",
+    "diagnosis": "Mild or unspecified pre-eclampsia, postpartum condition or complication",
+    "visit_date": {"date":"2019-09-23T17:38:41.000Z"}
+  }, {
+    "patient_id": 64,
+    "first_name": "Mal",
+    "last_name": "Bohje",
+    "gender": "Male",
+    "procedure_code": "069F3ZZ",
+    "procedure_description": "Drainage of Right External Iliac Vein, Percutaneous Approach",
+    "diagnosis": "Injury to unspecified blood vessel of thorax",
+    "visit_date": {"date":"2019-07-23T07:34:58.000Z"}
+  }, {
+    "patient_id": 65,
+    "first_name": "Niall",
+    "last_name": "Emlin",
+    "gender": "Male",
+    "procedure_code": "0J9R3ZZ",
+    "procedure_description": "Drainage of L Foot Subcu/Fascia, Perc Approach",
+    "diagnosis": "Lateral displacement of globe",
+    "visit_date": {"date":"2019-03-24T12:31:59.000Z"}
+  }, {
+    "patient_id": 66,
+    "first_name": "Orella",
+    "last_name": "Savoury",
+    "gender": "Female",
+    "procedure_code": "0YBC4ZZ",
+    "procedure_description": "Excision of Right Upper Leg, Perc Endo Approach",
+    "diagnosis": "Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",
+    "visit_date": {"date":"2019-04-22T03:51:47.000Z"}
+  }, {
+    "patient_id": 67,
+    "first_name": "Hyacinthia",
+    "last_name": "Wickerson",
+    "gender": "Female",
+    "procedure_code": "0DP032Z",
+    "procedure_description": "Removal of Monitor Dev from Up Intest Tract, Perc Approach",
+    "diagnosis": "Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)",
+    "visit_date": {"date":"2019-03-28T04:00:12.000Z"}
+  }, {
+    "patient_id": 68,
+    "first_name": "Chuck",
+    "last_name": "Savins",
+    "gender": "Male",
+    "procedure_code": "0UPD8HZ",
+    "procedure_description": "Removal of Contraceptive Device from Uterus and Cervix, Endo",
+    "diagnosis": "Other iatrogenic hypothyroidism",
+    "visit_date": {"date":"2018-12-16T06:07:52.000Z"}
+  }, {
+    "patient_id": 69,
+    "first_name": "Tatiania",
+    "last_name": "Upson",
+    "gender": "Female",
+    "procedure_code": "0PW53KZ",
+    "procedure_description": "Revision of Nonaut Sub in R Scapula, Perc Approach",
+    "diagnosis": "Anomalies of aortic arch",
+    "visit_date": {"date":"2019-09-23T17:44:54.000Z"}
+  }, {
+    "patient_id": 70,
+    "first_name": "Ailyn",
+    "last_name": "Dagless",
+    "gender": "Female",
+    "procedure_code": "BW2000Z",
+    "procedure_description": "CT Scan of Abd using H Osm Contrast, Unenh, Enhance",
+    "diagnosis": "Fitting and adjustment, other device",
+    "visit_date": {"date":"2019-02-21T18:05:01.000Z"}
+  }, {
+    "patient_id": 71,
+    "first_name": "Vernon",
+    "last_name": "Heinz",
+    "gender": "Male",
+    "procedure_code": "041F0AD",
+    "procedure_description": "Bypass L Int Iliac Art to R Ext Ilia w Autol Art, Open",
+    "diagnosis": "Migraine with aura, without mention of intractable migraine without mention of status migrainosus",
+    "visit_date": {"date":"2019-11-19T17:13:52.000Z"}
+  }, {
+    "patient_id": 72,
+    "first_name": "Ansell",
+    "last_name": "Ethersey",
+    "gender": "Male",
+    "procedure_code": "0HWSX7Z",
+    "procedure_description": "Revision of Autol Sub in Hair, Extern Approach",
+    "diagnosis": "Cyanotic attacks of newborn",
+    "visit_date": {"date":"2018-12-06T02:06:15.000Z"}
+  }, {
+    "patient_id": 73,
+    "first_name": "Willie",
+    "last_name": "Cosin",
+    "gender": "Female",
+    "procedure_code": "0D1L474",
+    "procedure_description": "Bypass Trans Colon to Cutan w Autol Sub, Perc Endo",
+    "diagnosis": "Flaccid hemiplegia and hemiparesis affecting unspecified side",
+    "visit_date": {"date":"2019-02-03T04:35:24.000Z"}
+  }, {
+    "patient_id": 74,
+    "first_name": "Siegfried",
+    "last_name": "Tomaszczyk",
+    "gender": "Male",
+    "procedure_code": "0RR007Z",
+    "procedure_description": "Replacement of Occip Jt with Autol Sub, Open Approach",
+    "diagnosis": "Asthma, unspecified type, with status asthmaticus",
+    "visit_date": {"date":"2019-05-12T07:07:51.000Z"}
+  }, {
+    "patient_id": 75,
+    "first_name": "Maje",
+    "last_name": "Felipe",
+    "gender": "Male",
+    "procedure_code": "B30B1ZZ",
+    "procedure_description": "Plain Radiography of L Ext Carotid using L Osm Contrast",
+    "diagnosis": "Exposure to x-rays and other electromagnetic ionizing radiation",
+    "visit_date": {"date":"2019-04-09T03:22:16.000Z"}
+  }, {
+    "patient_id": 76,
+    "first_name": "Danie",
+    "last_name": "Sanja",
+    "gender": "Male",
+    "procedure_code": "057C0DZ",
+    "procedure_description": "Dilation of L Basilic Vein with Intralum Dev, Open Approach",
+    "diagnosis": "Special screening examination for other specified viral diseases",
+    "visit_date": {"date":"2019-07-25T03:26:08.000Z"}
+  }, {
+    "patient_id": 77,
+    "first_name": "Alvira",
+    "last_name": "Durham",
+    "gender": "Female",
+    "procedure_code": "0PQL4ZZ",
+    "procedure_description": "Repair Left Ulna, Percutaneous Endoscopic Approach",
+    "diagnosis": "Motor vehicle traffic accident involving collision with other vehicle injuring passenger on motorcycle",
+    "visit_date": {"date":"2019-01-14T18:02:20.000Z"}
+  }, {
+    "patient_id": 78,
+    "first_name": "Florette",
+    "last_name": "Bewfield",
+    "gender": "Female",
+    "procedure_code": "F07J2UZ",
+    "procedure_description": "Coord/Dexterity Trmt Musculosk Head, Neck w Prosthesis",
+    "diagnosis": "Other phlebitis and thrombosis complicating pregnancy and the puerperium, postpartum condition or complication",
+    "visit_date": {"date":"2019-11-10T05:47:25.000Z"}
+  }, {
+    "patient_id": 79,
+    "first_name": "Marinna",
+    "last_name": "Rudolph",
+    "gender": "Female",
+    "procedure_code": "0THB33Z",
+    "procedure_description": "Insertion of Infusion Device into Bladder, Perc Approach",
+    "diagnosis": "Unspecified malignant neoplasm of eyelid, including canthus",
+    "visit_date": {"date":"2019-03-18T01:34:20.000Z"}
+  }, {
+    "patient_id": 80,
+    "first_name": "Tarrah",
+    "last_name": "Swaden",
+    "gender": "Female",
+    "procedure_code": "041L0AJ",
+    "procedure_description": "Bypass L Fem Art to L Femor A with Autol Art, Open Approach",
+    "diagnosis": "Female genital mutilation Type I status",
+    "visit_date": {"date":"2019-05-24T01:52:37.000Z"}
+  }, {
+    "patient_id": 81,
+    "first_name": "Flory",
+    "last_name": "Walby",
+    "gender": "Male",
+    "procedure_code": "0VCN3ZZ",
+    "procedure_description": "Extirpation of Matter from Right Vas Deferens, Perc Approach",
+    "diagnosis": "Other artificial opening of urinary tract status",
+    "visit_date": {"date":"2019-11-09T10:53:31.000Z"}
+  }, {
+    "patient_id": 82,
+    "first_name": "Lazar",
+    "last_name": "Zold",
+    "gender": "Male",
+    "procedure_code": "0Y6Y0Z1",
+    "procedure_description": "Detachment at Left 5th Toe, High, Open Approach",
+    "diagnosis": "Malignant neoplasm of cheek mucosa",
+    "visit_date": {"date":"2019-04-08T11:14:18.000Z"}
+  }, {
+    "patient_id": 83,
+    "first_name": "Marylin",
+    "last_name": "Cowitz",
+    "gender": "Female",
+    "procedure_code": "0SH543Z",
+    "procedure_description": "Insert Infusion Dev in Sacrococcygeal Jt, Perc Endo",
+    "diagnosis": "Unspecified complication of labor and delivery, postpartum condition or complication",
+    "visit_date": {"date":"2019-02-22T04:26:42.000Z"}
+  }, {
+    "patient_id": 84,
+    "first_name": "Boris",
+    "last_name": "Willgress",
+    "gender": "Male",
+    "procedure_code": "0X6W0Z0",
+    "procedure_description": "Detachment at Left Little Finger, Complete, Open Approach",
+    "diagnosis": "Stress incontinence, male",
+    "visit_date": {"date":"2019-03-03T13:02:03.000Z"}
+  }, {
+    "patient_id": 85,
+    "first_name": "Fiorenze",
+    "last_name": "Bowering",
+    "gender": "Female",
+    "procedure_code": "019H3ZZ",
+    "procedure_description": "Drainage of Peroneal Nerve, Percutaneous Approach",
+    "diagnosis": "Asthma, unspecified type, with (acute) exacerbation",
+    "visit_date": {"date":"2019-08-11T02:31:09.000Z"}
+  }, {
+    "patient_id": 86,
+    "first_name": "Stuart",
+    "last_name": "Stoffel",
+    "gender": "Male",
+    "procedure_code": "0LR707Z",
+    "procedure_description": "Replacement of R Hand Tendon with Autol Sub, Open Approach",
+    "diagnosis": "Injury to inferior mesenteric artery",
+    "visit_date": {"date":"2019-07-06T13:14:49.000Z"}
+  }, {
+    "patient_id": 87,
+    "first_name": "Amelia",
+    "last_name": "Sueter",
+    "gender": "Female",
+    "procedure_code": "0JPTX0Z",
+    "procedure_description": "Remove of Drain Dev from Trunk Subcu/Fascia, Extern Approach",
+    "diagnosis": "Hodgkin's granuloma, lymph nodes of inguinal region and lower limb",
+    "visit_date": {"date":"2019-11-17T11:49:17.000Z"}
+  }, {
+    "patient_id": 88,
+    "first_name": "Janos",
+    "last_name": "Cluitt",
+    "gender": "Male",
+    "procedure_code": "04LR4ZZ",
+    "procedure_description": "Occlusion of R Post Tib Art, Perc Endo Approach",
+    "diagnosis": "Malignant neoplasm of anterior portion of floor of mouth",
+    "visit_date": {"date":"2019-04-24T07:45:35.000Z"}
+  }, {
+    "patient_id": 89,
+    "first_name": "Nada",
+    "last_name": "Glassard",
+    "gender": "Female",
+    "procedure_code": "DFY3FZZ",
+    "procedure_description": "Plaque Radiation of Pancreas",
+    "diagnosis": "Contact and allergic dermatitis of eyelid",
+    "visit_date": {"date":"2019-07-07T07:25:10.000Z"}
+  }, {
+    "patient_id": 90,
+    "first_name": "Donna",
+    "last_name": "Farington",
+    "gender": "Female",
+    "procedure_code": "0W923ZZ",
+    "procedure_description": "Drainage of Face, Percutaneous Approach",
+    "diagnosis": "Tuberculous abscess of brain, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",
+    "visit_date": {"date":"2019-10-09T20:38:43.000Z"}
+  }, {
+    "patient_id": 91,
+    "first_name": "Ax",
+    "last_name": "Newick",
+    "gender": "Male",
+    "procedure_code": "0P9K30Z",
+    "procedure_description": "Drainage of Right Ulna with Drainage Device, Perc Approach",
+    "diagnosis": "Other and unspecified fall in water transport injuring dockers, stevedores",
+    "visit_date": {"date":"2019-05-01T09:56:16.000Z"}
+  }, {
+    "patient_id": 92,
+    "first_name": "Angelina",
+    "last_name": "Gores",
+    "gender": "Female",
+    "procedure_code": "0WWLX0Z",
+    "procedure_description": "Revision of Drainage Device in Lower Back, External Approach",
+    "diagnosis": "Fetopelvic disproportion, unspecified as to episode of care or not applicable",
+    "visit_date": {"date":"2019-08-20T13:14:34.000Z"}
+  }, {
+    "patient_id": 93,
+    "first_name": "Chantalle",
+    "last_name": "Luetchford",
+    "gender": "Female",
+    "procedure_code": "0X920ZZ",
+    "procedure_description": "Drainage of Right Shoulder Region, Open Approach",
+    "diagnosis": "Intraventricular hemorrhage, grade IV",
+    "visit_date": {"date":"2019-12-01T12:41:23.000Z"}
+  }, {
+    "patient_id": 94,
+    "first_name": "Kalil",
+    "last_name": "Reame",
+    "gender": "Male",
+    "procedure_code": "0K820ZZ",
+    "procedure_description": "Division of Right Neck Muscle, Open Approach",
+    "diagnosis": "Congenital hiatus hernia",
+    "visit_date": {"date":"2018-12-12T08:28:16.000Z"}
+  }, {
+    "patient_id": 95,
+    "first_name": "Ellie",
+    "last_name": "Durrett",
+    "gender": "Female",
+    "procedure_code": "02714Z6",
+    "procedure_description": "Dilation of 2 Cor Art, Bifurc, Perc Endo Approach",
+    "diagnosis": "Zygomatic hyperplasia",
+    "visit_date": {"date":"2019-08-14T21:28:16.000Z"}
+  }, {
+    "patient_id": 96,
+    "first_name": "Kora",
+    "last_name": "Ascroft",
+    "gender": "Female",
+    "procedure_code": "0J2TXYZ",
+    "procedure_description": "Change Other Device in Trunk Subcu/Fascia, Extern Approach",
+    "diagnosis": "Anterior scleritis",
+    "visit_date": {"date":"2019-07-14T23:29:27.000Z"}
+  }, {
+    "patient_id": 97,
+    "first_name": "Stanwood",
+    "last_name": "Ubanks",
+    "gender": "Male",
+    "procedure_code": "0Q860ZZ",
+    "procedure_description": "Division of Right Upper Femur, Open Approach",
+    "diagnosis": "Lepromatous leprosy [type L]",
+    "visit_date": {"date":"2019-10-14T08:18:18.000Z"}
+  }, {
+    "patient_id": 98,
+    "first_name": "Cristiano",
+    "last_name": "Antill",
+    "gender": "Male",
+    "procedure_code": "037H4ZZ",
+    "procedure_description": "Dilation of Right Common Carotid Artery, Perc Endo Approach",
+    "diagnosis": "Arthropathy in Behcet's syndrome, lower leg",
+    "visit_date": {"date":"2019-02-25T22:46:48.000Z"}
+  }, {
+    "patient_id": 99,
+    "first_name": "Falkner",
+    "last_name": "Moxham",
+    "gender": "Male",
+    "procedure_code": "0TM30ZZ",
+    "procedure_description": "Reattachment of Right Kidney Pelvis, Open Approach",
+    "diagnosis": "Exfoliation due to erythematous condition involving 10-19 percent of body surface",
+    "visit_date": {"date":"2019-12-02T10:35:03.000Z"}
+  }, {
+    "patient_id": 100,
+    "first_name": "Berny",
+    "last_name": "Kellar",
+    "gender": "Female",
+    "procedure_code": "0RHH44Z",
+    "procedure_description": "Insert of Int Fix into L Acromioclav Jt, Perc Endo Approach",
+    "diagnosis": "Hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites",
+    "visit_date": {"date":"2019-03-26T21:34:40.000Z"}
+  }]
