@@ -1,6 +1,13 @@
 from connect_mongo import db_pr25
 
-customers_collection = db_pr25["customers"]
+#customers_collection = db_pr25["customers"]
+customers_collection = db_pr25.create_collection(
+    "customers",
+    collation={
+        "locale": "cs",  # Nastavení české lokalizace
+        "strength": 1    # Ignoruje rozdíly mezi velkými a malými písmeny
+    }
+)
 
 customers = [
     {"name": "Adam", "surname": "Novák", "address": "Hlavní 25, Brno"},
