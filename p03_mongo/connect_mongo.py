@@ -21,12 +21,13 @@ db_test25 = mongo_client.db_test25
 db_pr25 = mongo_client["PythonRemoteCZ25"]
 
 
-print(f"mongo_client: {mongo_client}")
-print(f"db_test25: {db_test25}")
-print(f"db_pr25: {db_pr25}")
+if __name__ == '__main__':
+    print(f"mongo_client: {mongo_client}")
+    print(f"db_test25: {db_test25}")
+    print(f"db_pr25: {db_pr25}")
 
-databases = mongo_client.list_database_names()
-print(f"databases: {databases}")
+    databases = mongo_client.list_database_names()
+    print(f"databases: {databases}")
 
-# vytvoření kolekce ("tabulka")
-customer_collection = db_pr25["customers"]
+    # vytvoření kolekce ("tabulka")
+    customer_collection = db_pr25["customers"]
